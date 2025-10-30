@@ -34,12 +34,12 @@ NODE_ENV=development
 
 ---
 
-🧩 Build the app
+## 🧩 Build the app
 npm run build --prefix frontend
 
 ---
 
 
-▶️ Start the app
+## ▶️ Start the app
 npm run start --prefix backend
 
