@@ -32,4 +32,8 @@ CLOUDINARY_API_SECRET=your_cloudinary_secret
 
 NODE_ENV=development
 
+## Build the app
+
+```npm
+npm run build
 
